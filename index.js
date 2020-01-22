@@ -1,5 +1,6 @@
 /**
  * @format
+ *Surachart rangsan
  */
 
 import {AppRegistry} from 'react-native';
